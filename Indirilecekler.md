@@ -1,6 +1,6 @@
 # İndirilecekler Listesi
 
-​	[Kurulum rehberine atla](#Neyi-nasıl-kurarım)
+[Kurulum rehberine atla](#Neyi-nasıl-kurarım)
 
 1\. Ders ve sonrası için:
    - Dev-C++ [Nasıl Kurulur](#Dev-Cpp)
@@ -19,7 +19,7 @@
 
 ## Dev-Cpp
 
-Dev-C++ programını [bu linke][dev-cpp-download] girdikten sonra yeşil "Download Latest Version" butonu ile indireceğiz.
+Dev-C++ programını [bu linke][dev-cpp-download] girdikten sonra yeşil "Download" butonu ile indireceğiz.
 
 Taşınabilir halini indirmek isteyen arkadaşlar [bu linkten][dev-cpp-portable] "Dev-Cpp X.XX TDM-GCC x64 X.X.X Portable.7z" linkine tıklayarak indirebilirler. X ile gösterilen kısım versiyon numarasıdır, yazdığıma benziyen en üstteki dosyayı indirebilirsiniz.
 Taşınabilir halini açmak için ayrıca 7-Zip File Manager programına ihtiyaç duyacaksınız.
@@ -96,5 +96,6 @@ Zeal'i [bu linkten][zeal-download] indirin.
 [vcpp13redist]: https://www.microsoft.com/tr-tr/download/details.aspx?id=52685
 [simulide-download]: https://www.simulide.com/p/downloads.html
 [arduino-download]:https://www.arduino.cc/en/software
+[dev-cpp-download]:https://sourceforge.net/projects/orwelldevcpp/
+[dev-cpp-portable]:https://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/
 
-[Visual Studio Code]:
