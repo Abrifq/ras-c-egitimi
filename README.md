@@ -8,6 +8,8 @@
 ## 1. Ders
 - [Ders Notu](./Ders-1.md) \([PDF hali](./Ders-1.pdf)\)
 
+## 2. Ders
+- [Ders Notu](./Ders-2.md) \([PDF hali](./Ders-2.pdf)\)
 
 <center> Arda Aydın, 2021</center>
 
